@@ -1,3 +1,5 @@
+#UFO Guide Theme
+
 Persona theme for NodeBB
 ====================
 
